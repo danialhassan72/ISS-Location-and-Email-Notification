@@ -6,8 +6,8 @@ import time
 
 MY_EMAIL = "your_email"
 MY_PASSWORD = "Your_14_digit_password"
-MY_LAT =  33.684422
-MY_LNG = 73.047882
+MY_LAT =  31.520370
+MY_LNG = 74.358749
 
 
 def get_iss_position():
